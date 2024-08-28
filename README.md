@@ -1,2 +1,57 @@
 # Estudos-de-Java
-Estudos de java
+Estudos de java. Tópicos abordados:
+- [x] 10 - Tipos primitivos pt 01 - convenções de variáveis
+- [x] 11 - Tipos primitivos pt 02 - declaração e tamanho em memória
+- [x] 12 - Tipos primitivos pt 03 - casting
+- [x] 13 - Tipos primitivos pt 04 - Strings
+- [x] 14 - Tipos primitivos pt 05 - Exercício
+- [x] 15 - Operadores pt 01 - Aritiméticos
+- [x] 16 - Operadores pt 02 - Relacionais
+- [x] 17 - Operadores pt 03 - Lógicos AND
+- [x] 18 - Operadores pt 04 - Lógicos OR
+- [x] 19 - Operadores pt 05 - Atribuição
+- [x] 20 - Estruturas Condicionais pt 01 - IF
+- [x] 21 - Estruturas Condicionais pt 02 - ELSE IF
+- [x] 22 - Estruturas Condicionais pt 03 - Operador ternário
+- [x] 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício
+- [x] 24 - Estruturas Condicionais pt 05 - Resolução do exercícios
+- [x] 25 - Estruturas Condicionais pt 06 - Switch
+- [x] 26 - Estruturas Condicionais pt 07 - Switch exercício
+- [x] 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for
+- [x] 28 - Estruturas de Repetição pt 02 - Exercício for
+- [x] 29 - Estruturas de Repetição pt 03 - Break
+- [x] 30 - Estruturas de Repetição pt 04 - Exercício Break
+- [x] 31 - Estruturas de Repetição pt 05 - Continue
+- [x] 32 - Arrays pt 01
+- [x] 33 - Arrays pt 02
+- [x] 34 - Arrays pt 03
+- [x] 35 - Arrays pt 04 - Foreach
+- [x] 36 - Arrays Multidimensionais pt 01
+- [x] 37 - Arrays Multidimensionais pt 02 - Foreach
+- [x] 38 - Arrays Multidimensionais pt 03 - Inicialização
+- [x] 39 - Orientação Objetos pt 01 - Introdução classes pt 01
+- [x] 40 - Orientação Objetos - Introdução classes pt 02
+- [x] 41 - Orientação Objetos - Coesão
+- [x] 42 - Orientação Objetos - Exercício Classes
+- [x] 43 - Orientação Objetos - Referência de objetos
+- [x] 44 - Orientação Objetos - Métodos pt 01
+- [x] 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
+- [x] 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
+- [x] 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
+- [x] 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
+- [x] 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência
+- [x] 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
+- [x] 51 - Orientação Objetos - Métodos pt 08 - Referência this
+- [x] 52 - Orientação Objetos - Métodos pt 09 - Varargs
+- [x] 53 - Orientação Objetos - Métodos pt 10 - Exercise
+- [x] 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01
+- [x] 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
+- [x] 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
+- [x] 57 - Orientação Objetos - Sobrecarga de métodos
+- [x] 58 - Orientação Objetos - Construtores pt 01
+- [x] 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga
+- [x] 60 - Orientação Objetos - Blocos de inicialização
+- [x] 61 - Orientação Objetos - Modificador static
+- [x] 62 - Orientação Objetos - Métodos estáticos
+- [x] 63 - Orientação Objetos - Bloco de inicialização estático
+
