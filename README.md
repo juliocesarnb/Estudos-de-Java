@@ -54,4 +54,4 @@ Estudos de java. Tópicos abordados:
 - [x] 61 - Orientação Objetos - Modificador static
 - [x] 62 - Orientação Objetos - Métodos estáticos
 - [x] 63 - Orientação Objetos - Bloco de inicialização estático
-
+- [ ] 64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos
