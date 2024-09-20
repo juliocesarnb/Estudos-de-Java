@@ -58,3 +58,8 @@ Estudos de java. Tópicos abordados:
 - [x] 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos
 - [x] 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um
 - [x] 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional (#rever aulas a partir da 64)
+- [x] 68 - Orientação Objetos - Leitura de dados pelo console
+- [x] 69 - Orientação Objetos - Exercício leitura de dados do teclado
+- [x] 70 - Orientação Objetos - Associação pt 05 - Exercício Associação
+
+
