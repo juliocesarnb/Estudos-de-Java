@@ -56,4 +56,6 @@ Estudos de java. Tópicos abordados:
 - [x] 63 - Orientação Objetos - Bloco de inicialização estático
 - [x] 64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos
 - [x] 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos
+- [ ] 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional
+
 
